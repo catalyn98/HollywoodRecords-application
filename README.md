@@ -84,7 +84,7 @@ $ npm start
   <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/10.Email%20reset%20password.png" />
 </details>
 
-# Admin panel screenshoot app
+# Admin panel screenshoots app
 
 1.Dashboard
 <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Admin/1.Dashboard.png" />
