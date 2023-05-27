@@ -128,9 +128,9 @@ $ npm start
   <summary>More Screenshots</summary>
   | Nr. | Schema |
 | --- | ------ |
-|  2  | ![User schema] <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/2.User%20collection.png" /> |
-|  3  | ![Product schema]<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/3.Product%20collection.png" /> |
-|  4  | ![Product schema]<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/4.Category%20product%20collection.png" /> |
-|  5  | ![Category product schema]<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/5.Cart%20collection.png" /> |
-|  6  | ![Cart schema]<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/6.Order%20collection.png" /> |
+|  2  | ![User schema] (<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/2.User%20collection.png" />) |
+|  3  | ![Product schema] (<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/3.Product%20collection.png" />) |
+|  4  | ![Product schema] (<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/4.Category%20product%20collection.png" />) |
+|  5  | ![Category product schema] (<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/5.Cart%20collection.png" />) |
+|  6  | ![Cart schema] (<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/6.Order%20collection.png" />) |
 </details>
