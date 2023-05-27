@@ -121,22 +121,12 @@ $ npm start
 
 # Database structure
 
-1.The whole schema
-<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/1.Structure%20of%20database.png" />
+| Nr. | Schema |
+| --- | ------ |
+|  1  | ![Whole schema](https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/1.Structure%20of%20database.png) |
+|  2  | ![User schema](https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/2.User%20collection.png) |
+|  3  | ![Product schema](https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/3.Product%20collection.png) |
+|  4  | ![Category product schema](https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/4.Category%20product%20collection.png) |
+|  5  | ![Cart schema](https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/5.Cart%20collection.png) |
+|  6  | ![Order schema](https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/6.Order%20collection.png) |
 
-<details>
-  <summary>More screenshots</summary>
-  ![2.User schema](<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/2.User%20collection.png" />)
-
-  3.Product schema
-  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/3.Product%20collection.png" />
-
-  4.Category product schema
-  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/4.Category%20product%20collection.png" />
-
-  5.Cart schema
-  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/5.Cart%20collection.png" />
-
-  5.Order schema
-  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/6.Order%20collection.png" />
-</details>
