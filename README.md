@@ -138,6 +138,6 @@ $ npm start
   5.Cart schema
   <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/5.Cart%20collection.png" />
 
-  5.Order schema
+  6.Order schema
   <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/6.Order%20collection.png" />
 </details>
