@@ -1,0 +1,61 @@
+.Auth-form-container {
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/licenseproject-c2773.appspot.com/o/CarouselImages%2FNewsletter.jpg?alt=media&token=a3646395-6a3d-428a-8600-b897aefead76");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+.Auth-form {
+  width: 420px;
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-radius: 8px;
+  background-color: white;
+}
+.Auth-form-content {
+  padding-left: 12%;
+  padding-right: 12%;
+}
+.Auth-form-title {
+  text-align: center;
+  margin-bottom: 1em;
+  font-size: 24px;
+  color: rgb(34, 34, 34);
+  font-weight: 800;
+}
+label {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(34, 34, 34);
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  margin: auto;
+}
+input {
+  width: 90%;
+}
+.input-field:focus {
+  border-color: #ffffff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+@media screen and (max-width: 1400px) {
+  .Auth-form-container {
+    background-size: cover;
+  }
+}
+
+@media screen and (min-width: 620px) {
+  .RegisterForm {
+    width: 550px;
+  }
+}

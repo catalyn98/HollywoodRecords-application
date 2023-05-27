@@ -1,0 +1,119 @@
+.header {
+  padding-bottom: 30px;
+}
+.container {
+  display: flex;
+  margin-top: 10px;
+}
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+.myLink {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+.myLink:hover {
+  color: black;
+}
+a {
+  text-decoration: none;
+}
+.apexcharts-zoom-icon {
+  display: none;
+}
+.btn-red {
+  color: #dc3545;
+  border-color: #dc3545;
+}
+.btn-red:hover {
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+.page-content {
+  min-height: calc(103vh - 100px);
+  position: relative;
+}
+.MDBFooter {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.input-field:focus {
+  border-color: #ffffff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+.vh-100 {
+  min-height: 10vh;
+}
+.MDBPageItemCustom {
+  cursor: pointer;
+  color: black;
+}
+.active > .page-link {
+  background-color: black;
+  border-color: #dee2e6;
+}
+.MDBPageItemCustom:hover {
+  color: white;
+  background-color: black;
+}
+.table-container {
+  overflow-x: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.centerInfo {
+  text-align: center;
+}
+.paddingAdded {
+  padding-bottom: 35px;
+}
+.MDBTable {
+  display: flex;
+  flex-direction: column;
+}
+.MDBTable thead {
+  display: none; /* Ascunde capul de tabel la ecrane înguste */
+}
+.MDBTable tbody {
+  flex: 1;
+}
+.MDBTable tr {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px; /* Adăugă un spațiu între rânduri la ecrane înguste */
+}
+.MDBTable td,
+.MDBTable th {
+  display: flex;
+  align-items: flex-start;
+  padding: 10px;
+}
+.ms-3 {
+  margin-left: 1rem !important;
+}
+.table > thead {
+  text-align: center;
+}
+.myCustomClass {
+  padding-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+  .MDBTable tr {
+    flex-direction: row; /* Afișează rândurile într-o singură linie la ecrane mai mari */
+  }
+  .MDBTable td,
+  .MDBTable th {
+    align-items: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .table-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}

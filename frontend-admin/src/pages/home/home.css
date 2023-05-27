@@ -1,0 +1,16 @@
+.statistics-column {
+  width: 100%;
+  padding-left: 40px;
+  padding-right: 50px;
+}
+.statistics-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media (min-width: 900px) {
+  .statistics-column {
+    width: 50%;
+    text-align: center;
+  }
+}

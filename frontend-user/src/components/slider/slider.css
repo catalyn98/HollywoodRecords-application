@@ -1,0 +1,25 @@
+.artistName,
+.artistDescription {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  display: none;
+}
+.carousel-indicators [data-bs-target] {
+  background-color: #000000;
+}
+.artistName {
+  font-size: 35px;
+  font-weight: bolder;
+}
+.artistDescription {
+  font-size: 20px;
+}
+
+@media screen and (max-width: 750px) {
+  .artistDescription {
+    display: none;
+  }
+}

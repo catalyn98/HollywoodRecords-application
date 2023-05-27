@@ -1,0 +1,8 @@
+# dependencies
+/api/node_modules
+/frontend-admin/node_modules
+/frontend-user/node_modules
+
+# misc
+/api/.env
+/frontend-admin/.env

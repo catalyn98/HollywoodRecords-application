@@ -1,0 +1,62 @@
+.featured {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap; /* Permite item-urilor să se încadreze în linii multiple */
+  justify-content: space-between;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.featuredItem {
+  flex: 1 1 300px; /* Item-urile vor avea lățimea minimă de 300px, dar pot crește dacă spațiul disponibil o permite */
+  margin: 10px 10px; /* Reducem marginile pentru a obține un aspect compact */
+  padding: 20px; /* Reducem padding-ul pentru a reduce spațiul în interiorul item-urilor */
+  border-radius: 10px;
+  cursor: pointer;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  margin-bottom: 20px; /* Adăugăm un spațiu între item-uri pentru a separa vizual */
+}
+.featuredTitle {
+  font-size: 20px;
+  color: #12263a;
+}
+.featuredMoneyContainer {
+  margin: 10px 0px;
+  display: flex;
+  align-items: center;
+}
+.featuredMoney {
+  font-size: 30px;
+  font-weight: 600;
+}
+.featuredMoneyRate {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+
+@media (max-width: 768px) {
+  .featuredItem {
+    flex-basis: calc(
+      50% - 20px
+    ); /* Item-urile vor avea lățimea de 50% la ecrane mici */
+  }
+}
+.featuredTitle {
+  font-size: 20px;
+  color: #12263a;
+}
+.featuredMoneyContainer {
+  margin: 10px 0px;
+  display: flex;
+  align-items: center;
+}
+.featuredMoney {
+  font-size: 30px;
+  font-weight: 600;
+}
+.featuredMoneyRate {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
