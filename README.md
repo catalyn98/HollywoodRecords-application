@@ -26,7 +26,7 @@ create a firebase connection and add your connection string into .env file
 
 ### Clone the repositories
 ```sh
-$ git clone https://github.com/catalyn98/hollywood-records.git
+$ git clone https://github.com/catalyn98/HollywoodRecords-application.git
 ```
 
 ### Install the dependencies and devDependencies:
@@ -49,73 +49,95 @@ $ npm install
 $ npm start 
 ```
 
-# Web application screenshoots%20app 
+# Web application screenshoots app 
 
-1.Home page
-<img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/User/1.Home.png" />
+1.Home
+<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/1.Home.png" />
 
 <details>
-  <summary>More screenshoots%20app</summary>
-  2.Movies page
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/User/2.All%20products%20by%20category.png" />
+  <summary>More screenshoots app</summary>
+  2.All products by category
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/2.All%20products%20by%20category.png" />
 
-  3.Blog page
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/User/3.All%20products.png" />
+  3.All products
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/3.All%20products.png" />
 
-  4.Team page
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/User/4.Product%20details.png" />
+  4.Product details
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/4.Product%20details.png" />
 
-  5.Contact us page
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/User/5.Cart.png" />
+  5.Cart
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/5.Cart.png" />
 
-  6.View profile
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/User/6.My%20orders.png" />
+  6.My orders
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/6.My%20orders.png" />
 
-  7.Settings account
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/User/7.Login.png" />
+  7.Login
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/7.Login.png" />
 
-  8.Seen movies by user
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/User/8.Register.png" />
+  8.Register
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/8.Register.png" />
 
-  9.Movies details page
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/User/9.Reset%20password.png" />
+  9.Reset password
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/9.Reset%20password.png" />
 
-  10.Terms of use
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/User/10.Email%20reset%20password.png" />
+  10.Email reset password
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/10.Email%20reset%20password.png" />
+</details>
 
-# Admin panel screenshoots%20app
+# Admin panel screenshoot app
 
 1.Dashboard
-<img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/Admin/1.Dashboard.png" />
+<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Admin/1.Dashboard.png" />
 
 <details>
-  <summary>More screenshoots%20app</summary>
+  <summary>More screenshoots app</summary>
   2.Users list
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/Admin/2.Users%20list.png" />
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Admin/2.Users%20list.png" />
 
-  3.Movies list
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/Admin/3.Movies%20list.png" />
+  3.Orders list
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Admin/3.Orders%20list.png" />
 
   4.Categories movies
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/Admin/3.Orders%20list.png" />
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Admin/4.Products%20list.png" />
 
-  5.Posts list
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/Admin/4.Products%20list.png" />
+  5.Add product
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Admin/5.Add%20product.png" />
 
-  6.Account settings
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/Admin/5.Add%20product.png" />
+  6.Update product
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Admin/6.Update%20product.png" />
 
-  7.Add movie 
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/Admin/6.Update%20product.png" />
+  7.Categories products list 
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Admin/7.Categories%20products list.png" />
 
-  8.Update movie
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/Admin/7.Categories%20products list.png" />
+  8.Add category product
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Admin/8.Add%20category%20product.png" />
   
-  9.Add category movies list
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/Admin/8.Add%20category%20product.png" />
+  9.Update category product
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Admin/9.Update%20category%20product.png" />
 
-  10.Update category movies list
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/Admin/9.Update%20category%20product.png" />
+  10.Login
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Admin/10.Login.png" />
+</details>
 
-  11.Add post 
-  <img src="https://github.com/catalyn98/hollywood-records/blob/master/screenshoots%20app/Admin/10.Login.png" />
+# Database structure
+
+1.The whole schema
+<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/1.Structure%20of%20database.png" />
+
+<details>
+  <summary>More Screenshots</summary>
+  2.User schema
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/2.User%20collection.png" />
+
+  3.Product schema
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/3.Product%20collection.png" />
+
+  4.Category product schema
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/4.Category%20product%20collection.png" />
+
+  5.Cart schema
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/5.Cart%20collection.png" />
+
+  5.Order schema
+  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/6.Order%20collection.png" />
+</details>
