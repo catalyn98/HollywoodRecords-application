@@ -126,8 +126,7 @@ $ npm start
 
 <details>
   <summary>More screenshots</summary>
-  ![2.User schema]
-  <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/2.User%20collection.png" />
+  ![2.User schema](<img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/2.User%20collection.png" />)
 
   3.Product schema
   <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/3.Product%20collection.png" />
