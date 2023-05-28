@@ -57,7 +57,7 @@ $ npm start
 | <p align="center">**Product details**</p> | <p align="center">**Cart**</p> | <p align="center">**My orders**</p> |
 | <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/4.Product%20details.png" /> | <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/5.Cart.png" /> | <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/6.My%20orders.png" /> |
 | <p align="center">**Login**</p> | <p align="center">**Register**</p> | <p align="center">**Reset password**</p> |
-| <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/7.Login.png" /> | <img src="https://github.com/catalyn98/HollywoodRecords-application/blob/main/screenshoots%20app/User/9.Reset%20password.png" /> |
+| <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/7.Login.png" /> | <img src="https://github.com/catalyn98/HollywoodRecords-application/blob/main/screenshoots%20app/User/8.Register.png" /> | <img src="https://github.com/catalyn98/HollywoodRecords-application/blob/main/screenshoots%20app/User/9.Reset%20password.png" /> |
 | <p align="center">**Email reset password**</p> | | |
 | <img src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/User/10.Email%20reset%20password.png" /> | | |
 
