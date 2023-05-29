@@ -17,16 +17,16 @@ Hollywood Records uses a number of open source projects to work properly:
 # Installation
 Hollywood Records application requires [Node.js](https://nodejs.org/) to run.
 
+### Clone the repositories
+```sh
+$ git clone https://github.com/catalyn98/HollywoodRecords-application.git
+```
+
 ### Set environment variables 
 To set up your project, follow these steps:
 1. Create a *.env* file in the following directories: the *backend api* folder, the *frontend-user* folder, and the *frontend-admin* folder, this file will store your environment variables.
 2. Create a MongoDB database and obtain the connection string provided by MongoDB for connecting to your database.
 3. Create a Firebase project and obtain the Firebase connection string.
-
-### Clone the repositories
-```sh
-$ git clone https://github.com/catalyn98/HollywoodRecords-application.git
-```
 
 ### Install the dependencies:
 Start the server:
