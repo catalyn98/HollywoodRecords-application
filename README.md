@@ -74,3 +74,14 @@ $ npm start
 
 # Database structure
 <img align="center" src="https://github.com/catalyn98/hollywood-records/blob/main/screenshoots%20app/Database/1.Structure%20of%20database.png" />
+
+# Credit
+This e-commerce web application was created based on a comprehensive tutorial series on YouTube titled **"React Node Full Stack eCommerce App"** by Lama Dev. You can find the tutorial series [here](https://www.youtube.com/watch?v=c1xTDSIXit8&list=PLj-4DlPRT48mxPG8TAXOH4qqQ1ijuERO4&index=1).
+
+### Description
+The tutorial series provided an in-depth guide on building a fully functional e-commerce website using the MERN stack. It covered various aspects of the development process, including setting up the backend API, implementing user authentication, managing product listings, handling shopping cart functionality, and integrating payment strype method.
+By following the tutorial, I gained hands-on experience with the MERN stack and learned how to leverage the capabilities of each technology to create a robust and scalable e-commerce platform. The step-by-step instructions and code explanations helped me understand the underlying concepts and best practices for developing modern web applications.
+Throughout the tutorial series, Lama Dev demonstrated proficiency in explaining complex concepts and provided valuable insights into building a feature-rich e-commerce solution.
+
+### Acknowledgment
+I would like to express my appreciation to Lama Dev for creating such an informative and comprehensive tutorial series. His dedication to sharing knowledge and expertise greatly contributed to the development process of this e-commerce web application. I highly recommend checking out the tutorial series for anyone interested in building their own MERN-based e-commerce platform.
